@@ -1,5 +1,7 @@
 
-📊 Hotel Booking Cancellation Analysis (Excel Dashboard)
+📊 Hotel Booking Cancellation Analysis (Excel Dashboard) 
+
+
 📌 Project Overview
 
 This project analyzes hotel booking data to study cancellation trends.
